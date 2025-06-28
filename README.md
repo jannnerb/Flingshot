@@ -7,7 +7,9 @@ Press **R** to reset all humanoid, character, player, and rootpart variables. If
 
 Press **G** to fling yourself!
 
+
 Press **=** and **-** to control the fling power! - decreases, and = increases. (Default is 300.)
+
 
 Press **Delete** to get the disable script prompt! To answer yes, press **Y**. If you want to DECLINE and keep using the script, press **N**.
 
